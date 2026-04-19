@@ -10,7 +10,7 @@ A standalone Wi-Fi internet radio built on the **Waveshare ESP32-S3 Touch LCD 1.
 
 ## ✨ Features
 
-- Wi-Fi internet radio streaming (MP3)
+- Wi-Fi internet radio
 - Playlist loaded from SD card
 - Time synchronization via NTP
 - Battery monitoring with visual indicator
