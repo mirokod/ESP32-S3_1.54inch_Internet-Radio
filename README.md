@@ -23,7 +23,7 @@ A standalone Wi-Fi internet radio built on the **Waveshare ESP32-S3 Touch LCD 1.
 - Display: ST7789 (240x240)
 - SD card required
 
-Documentation:
+## Documentation:
 - https://www.waveshare.com/esp32-s3-lcd-1.54.htm
 - https://docs.waveshare.com/ESP32-S3-Touch-LCD-1.54/Instructions-For-Use
 
