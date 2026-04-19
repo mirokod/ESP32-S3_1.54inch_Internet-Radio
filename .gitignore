@@ -1,0 +1,21 @@
+# Arduino
+*.ino.cpp
+*.elf
+*.bin
+
+# Build
+build/
+.pio/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Secrets
