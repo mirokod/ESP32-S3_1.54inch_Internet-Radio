@@ -183,7 +183,7 @@ CET-1CEST,M3.5.0/2,M10.5.0/3
 - Stations loaded from SD card
 - Format: NAME|URL
 - Names are displayed in UI
-- Supports up to 40 stations
+- Supports up to 40 stations (Can be increased in the code)
 - 6 stations per page
 
 ---
