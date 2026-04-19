@@ -70,15 +70,15 @@ Set the following:
 Create **3 files in the root directory**:
 
 ### `/wifi.txt`
-MyWiFi|password123
+MyWiFi|password123 
 PhoneHotspot|12345678
 
 
 ---
 
 ### `/stations.txt`
-Cas Rock|http://icecast6.play.cz/casrock128.mp3
-Radio Paradise|https://stream.radioparadise.com/mp3-192
+Cas Rock|http://icecast6.play.cz/casrock128.mp3 
+Radio Paradise|https://stream.radioparadise.com/mp3-192 
 BBC World Service|http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
 
@@ -196,7 +196,7 @@ CET-1CEST,M3.5.0/2,M10.5.0/3
 #define DEBUG 1
 1 → enable serial debug
 0 → disable debug (recommended for final build)
-
+```
 Notes
 audio.loop() must run frequently → do not block loop
 Avoid heavy display redraw
