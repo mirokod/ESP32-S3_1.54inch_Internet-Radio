@@ -43,24 +43,24 @@ Documentation:
 ## 🔧 Arduino Configuration
 
 Set the following:
-Board: ESP32S3 Dev Module
-USB CDC On Boot: Enabled
-CPU Frequency: 240 MHz (WiFi)
-Core Debug Level: None
-USB DFU On Boot: Disabled
-Erase All Flash Before Sketch Upload: Disabled
-Events Run On: Core 1
-Flash Mode: QIO 80MHz
-Flash Size: 16MB (128Mb)
-JTAG Adapter: Disabled
-Arduino Runs On: Core 1
-USB Firmware MSC On Boot: Disabled
-Partition Scheme: 16M Flash (3MB APP/9.9MB FATFS)
-PSRAM: OPI PSRAM
-Upload Mode: UART0 / Hardware CDC
-Upload Speed: 921600
-USB Mode: Hardware CDC and JTAG
-Zigbee Mode: Disabled
+- Board: ESP32S3 Dev Module
+- USB CDC On Boot: Enabled
+- CPU Frequency: 240 MHz (WiFi)
+- Core Debug Level: None
+- USB DFU On Boot: Disabled
+- Erase All Flash Before Sketch Upload: Disabled
+- Events Run On: Core 1
+- Flash Mode: QIO 80MHz
+- Flash Size: 16MB (128Mb)
+- JTAG Adapter: Disabled
+- Arduino Runs On: Core 1
+- USB Firmware MSC On Boot: Disabled
+- Partition Scheme: 16M Flash (3MB APP/9.9MB FATFS)
+- PSRAM: OPI PSRAM
+- Upload Mode: UART0 / Hardware CDC
+- Upload Speed: 921600
+- USB Mode: Hardware CDC and JTAG
+- Zigbee Mode: Disabled
 
 
 ---
@@ -203,13 +203,13 @@ Avoid heavy display redraw
 Stable Wi-Fi required for streaming
 SD card must be FAT32
 
-🙏 Credits
+## 🙏 Credits
 
 Inspiration:
 https://github.com/VolosR/WaveshareRadioStream
 
-⚠️ Note:
+## ⚠️ Note:
 This project is heavily modified and mostly rewritten.
 
-License
+## License
 MIT License
