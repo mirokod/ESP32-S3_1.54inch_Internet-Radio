@@ -2,6 +2,10 @@
 
 A standalone Wi-Fi internet radio built on the **Waveshare ESP32-S3 Touch LCD 1.54"** board using Arduino.
 
+<p align="left">
+  <img src="/ESP32-S3_1.54inch_Internet-Radio_Waveshare_MiroKod.jpg" width="400">
+</p>
+
 ---
 
 ## ✨ Features
